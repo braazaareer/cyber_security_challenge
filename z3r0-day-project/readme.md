@@ -1,0 +1,13 @@
+# z3r0-day-project
+
+**Difficulty:** Hard
+
+## Description
+Our Security Operations Center (SOC) has flagged a suspicious event. An employee reported receiving a seemingly benign Excel spreadsheet, and shortly after, our network intrusion detection system (IDS) logged unusual outbound traffic from their workstation.
+
+We fear this was a multi-stage attack culminating in data theft.
+
+We have successfully captured the full packet capture from the suspected timeframe and have also recovered the initial lure file.
+
+**The Task**
+Your task is to perform a full analysis of these two artifacts. You must reconstruct the attack chain, uncover the attacker's methodology, and ultimately determine what data was exfiltrated.
