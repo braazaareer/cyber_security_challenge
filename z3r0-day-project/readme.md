@@ -9,5 +9,5 @@ We fear this was a multi-stage attack culminating in data theft.
 
 We have successfully captured the full packet capture from the suspected timeframe and have also recovered the initial lure file.
 
-**The Task**
+### The Task
 Your task is to perform a full analysis of these two artifacts. You must reconstruct the attack chain, uncover the attacker's methodology, and ultimately determine what data was exfiltrated.
