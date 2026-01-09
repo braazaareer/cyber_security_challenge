@@ -11,3 +11,7 @@ We have successfully captured the full packet capture from the suspected timefra
 
 ### The Task
 Your task is to perform a full analysis of these two artifacts. You must reconstruct the attack chain, uncover the attacker's methodology, and ultimately determine what data was exfiltrated.
+
+# Writeup
+
+[z3r0-day-project writup](https://hwangstice.notion.site/pwnsec-ctf-2025)
