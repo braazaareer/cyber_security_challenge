@@ -14,4 +14,4 @@ Your task is to perform a full analysis of these two artifacts. You must reconst
 
 # Writeup
 
-[z3r0-day-project writup](https://hwangstice.notion.site/pwnsec-ctf-2025)
+[z3r0-day-project writeup](https://hwangstice.notion.site/pwnsec-ctf-2025)
