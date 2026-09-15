@@ -6,6 +6,7 @@
 From:  soc-lead@corptech.local
 
 To:    ir-team@corptech.local
+
 Subject: URGENT: IT does not distribute Shawarma via email
 
 Bad news: The promised "Free Double Meat Shawarma" was a lie. Worse news: Braa clicked it anyway.
